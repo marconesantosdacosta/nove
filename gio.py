@@ -1,2 +1,2 @@
 print('nova')
-print
+print(pao)
