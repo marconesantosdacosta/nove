@@ -1,2 +1,3 @@
 print('nova')
-print
+print('nova2')
+print('nova3')
